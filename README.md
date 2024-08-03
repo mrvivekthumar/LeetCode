@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mrvivekthumar/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/mrvivekthumar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mrvivekthumar/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Math
+|  |
+| ------- |
+| [3515-find-if-digit-game-can-be-won](https://github.com/mrvivekthumar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 <!---LeetCode Topics End-->
