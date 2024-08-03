@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/mrvivekthumar/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/mrvivekthumar/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Recursion
 |  |
 | ------- |
