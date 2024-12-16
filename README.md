@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/mrvivekthumar/LeetCode/tree/master/1036-rotting-oranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mrvivekthumar/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mrvivekthumar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mrvivekthumar/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mrvivekthumar/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/mrvivekthumar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mrvivekthumar/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mrvivekthumar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -101,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mrvivekthumar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
