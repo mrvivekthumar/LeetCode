@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/mrvivekthumar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/mrvivekthumar/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/mrvivekthumar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/mrvivekthumar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mrvivekthumar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
@@ -94,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/mrvivekthumar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/mrvivekthumar/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/mrvivekthumar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mrvivekthumar/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mrvivekthumar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -130,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/mrvivekthumar/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/mrvivekthumar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 <!---LeetCode Topics End-->
