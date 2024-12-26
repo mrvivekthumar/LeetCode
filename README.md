@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mrvivekthumar/LeetCode/tree/master/0283-move-zeroes) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mrvivekthumar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/mrvivekthumar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrvivekthumar/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -176,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mrvivekthumar/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
