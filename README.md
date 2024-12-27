@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mrvivekthumar/LeetCode/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mrvivekthumar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/mrvivekthumar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/mrvivekthumar/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -182,5 +183,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/mrvivekthumar/LeetCode/tree/master/1063-best-sightseeing-pair) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
