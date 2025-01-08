@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/mrvivekthumar/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mrvivekthumar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/mrvivekthumar/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/mrvivekthumar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mrvivekthumar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mrvivekthumar/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mrvivekthumar/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mrvivekthumar/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/mrvivekthumar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -224,4 +226,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/mrvivekthumar/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
