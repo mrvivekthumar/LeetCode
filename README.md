@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mrvivekthumar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mrvivekthumar/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/mrvivekthumar/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mrvivekthumar/LeetCode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/mrvivekthumar/LeetCode/tree/master/0733-flood-fill) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/mrvivekthumar/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3462-vowels-game-in-a-string](https://github.com/mrvivekthumar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mrvivekthumar/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrvivekthumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mrvivekthumar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/mrvivekthumar/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mrvivekthumar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mrvivekthumar/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
@@ -184,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mrvivekthumar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mrvivekthumar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mrvivekthumar/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
