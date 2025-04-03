@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mrvivekthumar/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3430-count-days-without-meetings](https://github.com/mrvivekthumar/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mrvivekthumar/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mrvivekthumar/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mrvivekthumar/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mrvivekthumar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mrvivekthumar/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mrvivekthumar/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3430-count-days-without-meetings](https://github.com/mrvivekthumar/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mrvivekthumar/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Queue
 |  |
