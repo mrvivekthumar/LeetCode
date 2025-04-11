@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mrvivekthumar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrvivekthumar/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/mrvivekthumar/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2998-count-symmetric-integers](https://github.com/mrvivekthumar/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mrvivekthumar/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/mrvivekthumar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mrvivekthumar/LeetCode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/mrvivekthumar/LeetCode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mrvivekthumar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/mrvivekthumar/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Combinatorics
 |  |
 | ------- |
