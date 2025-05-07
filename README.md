@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/mrvivekthumar/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mrvivekthumar/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mrvivekthumar/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mrvivekthumar/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/mrvivekthumar/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrvivekthumar/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mrvivekthumar/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mrvivekthumar/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mrvivekthumar/LeetCode/tree/master/0547-number-of-provinces) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mrvivekthumar/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
 | ------- |
@@ -423,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mrvivekthumar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/mrvivekthumar/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
