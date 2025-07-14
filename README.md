@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrvivekthumar/LeetCode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/mrvivekthumar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/mrvivekthumar/LeetCode/tree/master/0797-rabbits-in-forest) |
