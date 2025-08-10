@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mrvivekthumar/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrvivekthumar/LeetCode/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/mrvivekthumar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mrvivekthumar/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/mrvivekthumar/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrvivekthumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mrvivekthumar/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/mrvivekthumar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/mrvivekthumar/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mrvivekthumar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mrvivekthumar/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mrvivekthumar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/mrvivekthumar/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/mrvivekthumar/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mrvivekthumar/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mrvivekthumar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mrvivekthumar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mrvivekthumar/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mrvivekthumar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mrvivekthumar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mrvivekthumar/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2868-continuous-subarrays) |
