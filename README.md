@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrvivekthumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/mrvivekthumar/LeetCode/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/mrvivekthumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mrvivekthumar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/mrvivekthumar/LeetCode/tree/master/0768-partition-labels) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mrvivekthumar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrvivekthumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/mrvivekthumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/mrvivekthumar/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/mrvivekthumar/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrvivekthumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/mrvivekthumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0940-fruit-into-baskets](https://github.com/mrvivekthumar/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mrvivekthumar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mrvivekthumar/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
