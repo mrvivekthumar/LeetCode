@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mrvivekthumar/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mrvivekthumar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/mrvivekthumar/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/mrvivekthumar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mrvivekthumar/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mrvivekthumar/LeetCode/tree/master/0075-sort-colors) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mrvivekthumar/LeetCode/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mrvivekthumar/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mrvivekthumar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
