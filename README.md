@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/mrvivekthumar/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/mrvivekthumar/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/mrvivekthumar/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mrvivekthumar/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mrvivekthumar/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/mrvivekthumar/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
