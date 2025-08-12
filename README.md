@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/mrvivekthumar/LeetCode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/mrvivekthumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mrvivekthumar/LeetCode/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/mrvivekthumar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mrvivekthumar/LeetCode/tree/master/0768-partition-labels) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mrvivekthumar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mrvivekthumar/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mrvivekthumar/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/mrvivekthumar/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/mrvivekthumar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mrvivekthumar/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mrvivekthumar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/mrvivekthumar/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrvivekthumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mrvivekthumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/mrvivekthumar/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/mrvivekthumar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/mrvivekthumar/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mrvivekthumar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mrvivekthumar/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mrvivekthumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mrvivekthumar/LeetCode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/mrvivekthumar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mrvivekthumar/LeetCode/tree/master/0768-partition-labels) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mrvivekthumar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mrvivekthumar/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
