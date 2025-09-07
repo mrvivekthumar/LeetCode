@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mrvivekthumar/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0963-three-equal-parts](https://github.com/mrvivekthumar/LeetCode/tree/master/0963-three-equal-parts) |
 | [1025-minimum-cost-for-tickets](https://github.com/mrvivekthumar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1028-interval-list-intersections](https://github.com/mrvivekthumar/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/mrvivekthumar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrvivekthumar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/mrvivekthumar/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/mrvivekthumar/LeetCode/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/mrvivekthumar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mrvivekthumar/LeetCode/tree/master/0768-partition-labels) |
+| [1028-interval-list-intersections](https://github.com/mrvivekthumar/LeetCode/tree/master/1028-interval-list-intersections) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mrvivekthumar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mrvivekthumar/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mrvivekthumar/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -544,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mrvivekthumar/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/mrvivekthumar/LeetCode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
