@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mrvivekthumar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/mrvivekthumar/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mrvivekthumar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mrvivekthumar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1524-string-matching-in-an-array](https://github.com/mrvivekthumar/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrvivekthumar/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/mrvivekthumar/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/mrvivekthumar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0963-three-equal-parts](https://github.com/mrvivekthumar/LeetCode/tree/master/0963-three-equal-parts) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mrvivekthumar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mrvivekthumar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/mrvivekthumar/LeetCode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mrvivekthumar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/mrvivekthumar/LeetCode/tree/master/2050-count-good-numbers) |
