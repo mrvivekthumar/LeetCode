@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/mrvivekthumar/LeetCode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/mrvivekthumar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/mrvivekthumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/mrvivekthumar/LeetCode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mrvivekthumar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/mrvivekthumar/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/mrvivekthumar/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/mrvivekthumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrvivekthumar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mrvivekthumar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mrvivekthumar/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mrvivekthumar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrvivekthumar/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/mrvivekthumar/LeetCode/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/mrvivekthumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mrvivekthumar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mrvivekthumar/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mrvivekthumar/LeetCode/tree/master/0797-rabbits-in-forest) |
