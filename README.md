@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mrvivekthumar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1524-string-matching-in-an-array](https://github.com/mrvivekthumar/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mrvivekthumar/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1603-running-sum-of-1d-array](https://github.com/mrvivekthumar/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/mrvivekthumar/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/mrvivekthumar/LeetCode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mrvivekthumar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrvivekthumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrvivekthumar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mrvivekthumar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1603-running-sum-of-1d-array](https://github.com/mrvivekthumar/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mrvivekthumar/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mrvivekthumar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/mrvivekthumar/LeetCode/tree/master/2249-count-the-hidden-sequences) |
