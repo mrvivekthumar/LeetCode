@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mrvivekthumar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mrvivekthumar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/mrvivekthumar/LeetCode/tree/master/0204-count-primes) |
