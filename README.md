@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mrvivekthumar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mrvivekthumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/mrvivekthumar/LeetCode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mrvivekthumar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrvivekthumar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrvivekthumar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/mrvivekthumar/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mrvivekthumar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
