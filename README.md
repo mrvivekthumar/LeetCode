@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mrvivekthumar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/mrvivekthumar/LeetCode/tree/master/2050-count-good-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/mrvivekthumar/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Array
@@ -585,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/mrvivekthumar/LeetCode/tree/master/1028-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mrvivekthumar/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
