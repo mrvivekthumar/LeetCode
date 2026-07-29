@@ -37,13 +37,19 @@ public:
         ListNode* temp = head;
         ListNode* newHead = recurstionMethod(head->next);
 
-        ListNode* travel = newHead;
-        while(travel-> next != NULL ){
-            travel = travel->next;
-        }
-        temp-> next = NULL;
-        travel->next = temp;
+        // ListNode* travel = newHead;
+        // while(travel-> next != NULL ){
+        //     travel = travel->next;
+        // }
 
+        // temp-> next = NULL;
+        // travel->next = temp;
+
+        // Second method
+        ListNode* front = head->next;
+        
+        front->next = head;
+        head->next = NULL;
         return newHead;
     }
 };
