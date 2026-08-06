@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/mrvivekthumar/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mrvivekthumar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/mrvivekthumar/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mrvivekthumar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mrvivekthumar/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1524-string-matching-in-an-array](https://github.com/mrvivekthumar/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrvivekthumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mrvivekthumar/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrvivekthumar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mrvivekthumar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/mrvivekthumar/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mrvivekthumar/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
