@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mrvivekthumar/LeetCode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mrvivekthumar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/mrvivekthumar/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0905-sort-array-by-parity](https://github.com/mrvivekthumar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0940-fruit-into-baskets](https://github.com/mrvivekthumar/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0963-three-equal-parts](https://github.com/mrvivekthumar/LeetCode/tree/master/0963-three-equal-parts) |
 | [1025-minimum-cost-for-tickets](https://github.com/mrvivekthumar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mrvivekthumar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0692-top-k-frequent-words](https://github.com/mrvivekthumar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mrvivekthumar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0905-sort-array-by-parity](https://github.com/mrvivekthumar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrvivekthumar/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mrvivekthumar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mrvivekthumar/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/mrvivekthumar/LeetCode/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/mrvivekthumar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mrvivekthumar/LeetCode/tree/master/0768-partition-labels) |
+| [0905-sort-array-by-parity](https://github.com/mrvivekthumar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1028-interval-list-intersections](https://github.com/mrvivekthumar/LeetCode/tree/master/1028-interval-list-intersections) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mrvivekthumar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mrvivekthumar/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
