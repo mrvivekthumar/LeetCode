@@ -3,7 +3,6 @@ public:
     int countPrimes(int n) {
         int cnt = 0;
         vector<int>isPrime(n,true);
-        vector<int>primes;
         
         for(int i = 2; i * i < n; i++){
             if(isPrime[i]){
