@@ -648,4 +648,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mrvivekthumar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/mrvivekthumar/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mrvivekthumar/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mrvivekthumar/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mrvivekthumar/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
