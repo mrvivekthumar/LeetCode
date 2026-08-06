@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mrvivekthumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mrvivekthumar/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/mrvivekthumar/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mrvivekthumar/LeetCode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mrvivekthumar/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/mrvivekthumar/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/mrvivekthumar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mrvivekthumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/mrvivekthumar/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrvivekthumar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mrvivekthumar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/mrvivekthumar/LeetCode/tree/master/1603-running-sum-of-1d-array) |
