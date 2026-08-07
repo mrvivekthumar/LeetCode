@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrvivekthumar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mrvivekthumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/mrvivekthumar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/mrvivekthumar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/mrvivekthumar/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mrvivekthumar/LeetCode/tree/master/0733-flood-fill) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mrvivekthumar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrvivekthumar/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mrvivekthumar/LeetCode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/mrvivekthumar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/mrvivekthumar/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/mrvivekthumar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mrvivekthumar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
