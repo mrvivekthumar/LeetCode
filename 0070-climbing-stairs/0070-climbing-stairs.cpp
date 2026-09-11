@@ -1,18 +1,24 @@
 class Solution {
+    vector<int> dp; 
 public:
-    int climbStairs(int n) {
-        if(n == 1){
+    int solve(int idx){
+        if(idx == 1 || idx == 0){
             return 1;
         }
-        int lastPrevious = 1;
-        int last = 1;
-        int ans = 0;
-        for(int i = 2; i <= n; i++ ){
-            ans = last + lastPrevious;
-            lastPrevious = last;
-            last = ans;
+        
+        if(dp[idx] != -1){
+            return dp[idx];
         }
+        
+        int one_step = solve(idx - 1);
+        int two_step = solve(idx - 2);
+        
+        
+        return dp[idx] = one_step + two_step;
+    }
 
-        return ans;
+    int climbStairs(int n) {
+        dp.assign(n + 1, -1);
+        return solve(n);
     }
 };
