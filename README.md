@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mrvivekthumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/mrvivekthumar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/mrvivekthumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mrvivekthumar/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/mrvivekthumar/LeetCode/tree/master/0049-group-anagrams) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mrvivekthumar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mrvivekthumar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/mrvivekthumar/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mrvivekthumar/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mrvivekthumar/LeetCode/tree/master/0031-next-permutation) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mrvivekthumar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/mrvivekthumar/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mrvivekthumar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mrvivekthumar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
